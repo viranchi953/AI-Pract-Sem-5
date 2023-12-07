@@ -1,0 +1,13 @@
+likes(john,jane).
+likes(jane,john).
+
+studies(charlie,csc135).
+studies(olivia,csc135).
+
+
+%queries
+%likes(john,X).
+%studies(charlie,csc135).
+%owns(X,car(bmw)) = owns(Y,car(C)).
+
+
